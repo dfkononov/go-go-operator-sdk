@@ -5,7 +5,7 @@ ENV OPERATOR=/usr/local/bin/go-go-operator-sdk \
     USER_NAME=go-go-operator-sdk
 
 # install operator binary
-COPY go-go-operator-sdk ${OPERATOR}
+COPY . ${OPERATOR}
 
 COPY build/bin /usr/local/bin
 
