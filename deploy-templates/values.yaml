@@ -1,0 +1,17 @@
+name: go-go-operator-sdk
+namespace: ""
+cdPipelineName: ""
+cdPipelineStageName: ""
+dnsWildcard: eks-core.aws.main.edp.projects.epam.com
+framework: operator-sdk
+
+database:
+  required: false
+
+
+ingress:
+  required: false
+
+image:
+  name: go-go-operator-sdk
+  version: latest
