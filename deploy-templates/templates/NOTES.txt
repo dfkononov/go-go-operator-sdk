@@ -1,1 +1,0 @@
-1. Application go-go-operator-sdk has been successfully deployed!!
