@@ -1,1 +1,0 @@
-1. Application go-operator-sdk-deploy-github has been successfully deployed!!
