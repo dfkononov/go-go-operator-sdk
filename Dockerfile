@@ -1,4 +1,4 @@
-FROM alpine:3.11.6
+FROM alpine:3.15.4
 
 ENV OPERATOR=/usr/local/bin/go-go-operator-sdk \
     USER_UID=1001 \
